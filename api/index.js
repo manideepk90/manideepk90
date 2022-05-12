@@ -2,7 +2,7 @@ const express = require("express")
 const app = express()
 const cors = require("cors")
 const cookieParser = require("cookie-parser")
-require("./Database/db")
+require("./database/db")
 const path = require('path')
 const testRouter = require("./routers/testRouter")
 
