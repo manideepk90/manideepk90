@@ -53,4 +53,4 @@ jobs:
           app-name: 'test-angu'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_059CAFA96B1D4ADCAB7701EE819642C8 }}
-          package: .
+          package: ./dist/testdevops.
