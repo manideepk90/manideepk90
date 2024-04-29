@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Manideep
+
+🌱 I’m currently learning DSA and AI
+🔭 I’m currently working on a tool for digital marketing.
+
 
 <!--
 **manideepk90/manideepk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
