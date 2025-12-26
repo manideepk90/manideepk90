@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Manideep!</h1>
 <p align="center">
-  <strong>Full Stack Developer & AI Enthusiast from India 🇮🇳</strong>
+  <strong>Full Stack Developer & AI Enthusiast from India</strong>
 </p>
 
 ---
